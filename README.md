@@ -1,4 +1,4 @@
-# Exfiltrating Data from Linux Workloads: Uncovering theTechniques
+# Exfiltrating Data from Linux Workloads: Uncovering the Techniques
 ☁️ My [Microsoft Reactor](https://texascyber.com/briefings_schedule/detection-engineering/) slides covering basic data exfiltration techniques from linux workloads.
 
 The talk covers various concepts and topics including;
