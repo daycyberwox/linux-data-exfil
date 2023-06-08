@@ -8,5 +8,5 @@ The talk covers various concepts and topics including;
 - 🔑 Stealing SSH Keys
 - 👨🏾‍💻 Stealing Instance Metadata
 - 🖥️ Detection-as-code
-- 🏃🏾‍♂️Detectin Data Exfiltration with wGET
+- 🏃🏾‍♂️Detecting Data Exfiltration with wGET
 - ➰ Exfiltration with cURL
